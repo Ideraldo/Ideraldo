@@ -6,7 +6,7 @@
 
  
 
-Profession 💻: BackEnd Developer.
+Profession 💻: FullStack Developer.
 
 College 👨‍🎓: Bachelor of Information Systems student.
 
