@@ -10,7 +10,7 @@ Profession 💻: FullStack Developer.
 
 College 👨‍🎓: Bachelor of Information Systems student.
 
-2022 Goals 📑: Learn more about Backend and Mobile development.
+2023 Goals 📑: Learn more about Backend and Devops.
 
 
 
