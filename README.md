@@ -8,9 +8,9 @@
 
 Profession 💻: FullStack Developer.
 
-College 👨‍🎓: Bachelor of Information Systems student.
+College 👨‍🎓: Bachelor of Information Systems.
 
-2023 Goals 📑: Learn more about Backend and Devops.
+2024 Goals 📑: Learn more about Solidity, Blockhain and AI integrations.
 
 
 
