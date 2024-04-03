@@ -10,7 +10,7 @@ Profession 💻: FullStack Developer.
 
 College 👨‍🎓: Bachelor of Information Systems.
 
-2024 Goals 📑: Learn more about Solidity, Blockhain and AI integrations.
+2024 Goals 📑: Learn more about Solidity, Blockhain, Cloud and AI integrations.
 
 
 
