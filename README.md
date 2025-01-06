@@ -6,7 +6,7 @@
 
  
 
-Profession 💻: BackEnd Software Engineer.
+Profession 💻: Backend Software Engineer.
 
 College 👨‍🎓: Bachelor of Information Systems.
 
