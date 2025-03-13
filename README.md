@@ -4,11 +4,8 @@
 
 ## I'm Ideraldo!
 
- 
 
-Profession 💻: Backend Software Engineer.
-
-College 👨‍🎓: Bachelor of Information Systems.
+💻: Backend Software Engineer.
 
 2025 Goals 📑: Focus on developing scalable AI solutions.
 
